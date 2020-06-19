@@ -29,6 +29,14 @@ my `cfg` is pretty much `vanilla` and it doesn't have too many configurations, s
     
       the default sensitivity value: `3.000000`
 
+`crouch jump`:
+
+- crouch jump is enabled on soldier
+  - if you don't want to use crouch jump = add `//` before the script on `soldier.cfg` 
+    - then remove `//` from `bind space +jump` on `gameoverrides.cfg`
+
+* `note`: you can simply remove the script if you don't want to use it. if you want to use it on a different class just copy the script and paste it to your class.cfg = `scout.cfg`
+ 
 `medic`:
 
 * `sayteam`:
