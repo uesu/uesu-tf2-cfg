@@ -36,6 +36,11 @@ my `cfg` is pretty much `vanilla` and it doesn't have too many configurations, s
     - then remove `//` from `bind space +jump` on `gameoverrides.cfg`
 
 * `note`: you can simply remove the script if you don't want to use it. if you want to use it on a different class just copy the script and paste it to your class.cfg = `scout.cfg`
+
+`resolution`:
+
+- find `mat_setvideomode 720 480 0` on autoexec.cfg
+  - change `720 480` to your preferred resolution; example = `1280 720`
  
 `medic`:
 
