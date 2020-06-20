@@ -15,6 +15,8 @@ my `cfg` is pretty much `vanilla` and it doesn't have too many configurations, s
 <h3>faq:
 </h3>
 
+* `note`: if you do not want to use it, add `//` slashes before the `script, bind or alias` and remove `//` slashes if you want to use it
+
  `fonts`:
 
 - if you have font problems: 
