@@ -33,11 +33,11 @@ my `cfg` is pretty much `vanilla` and it doesn't have too many configurations, s
 
 `crouch jump`:
 
-- crouch jump is enabled on soldier
-  - if you don't want to use crouch jump = add `//` before the script on `soldier.cfg` 
-    - then remove `//` from `bind space +jump` on `gameoverrides.cfg`
+- crouch jump is enabled on all class
+  - if you don't want to use crouch jump = add `//` before the script
+    - then remove `//` slashes on `bind space +jump` and `bind ctrl +duck on `gameoverrides.cfg`
 
-* `note`: you can simply remove the script if you don't want to use it. if you want to use it on a different class just copy the script and paste it to your class.cfg = `scout.cfg`
+* `note`: if you want to deactivate crouch jump (example = scout) and use crouch jump on soldier or demoman, simply add `//` before the script on scout and remove `//` slashes on `bind space +jump` and `bind ctrl +duck` from 'gameoverrides.cfg'
 
 `resolution`:
 
@@ -50,12 +50,12 @@ my `cfg` is pretty much `vanilla` and it doesn't have too many configurations, s
 
   - on `tf/cfg/user/medic` folder
     - you can change the highlighted text to whatever you want
+    
+cmd say_team "`using kritz!`"
 
-say_team "`using kritz!`"
+alias uber_used "cmd say_team `>>kritz used<<`"
 
-alias uber_used "say_team `>>kritz used<<`"
-
-alias uber_ready "say_team `>>kritz ready<<`"
+alias uber_ready "cmd say_team `>>kritz ready<<`"
 
 * `note`: execute when changing medigun
 
