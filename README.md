@@ -35,7 +35,7 @@ my `cfg` is pretty much `vanilla` and it doesn't have too many configurations, s
 
 - crouch jump is enabled on all class
   - if you don't want to use crouch jump = add `//` before the script
-    - then remove `//` slashes on `bind space +jump` and `bind ctrl +duck on `gameoverrides.cfg`
+    - then remove `//` slashes on `bind space +jump` and `bind ctrl +duck` from `gameoverrides.cfg`
 
 * `note`: if you want to deactivate crouch jump (example = scout) and use crouch jump on soldier or demoman, simply add `//` before the script on scout and remove `//` slashes on `bind space +jump` and `bind ctrl +duck` from 'gameoverrides.cfg'
 
