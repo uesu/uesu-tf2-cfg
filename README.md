@@ -57,7 +57,7 @@ alias uber_used "cmd say_team `>>kritz used<<`"
 
 alias uber_ready "cmd say_team `>>kritz ready<<`"
 
-* `note`: execute when changing medigun
+* `note`: execute when changing medigun to change the `sayteam`
 
       bind KP_HOME"exec user/medic/ubercharge.cfg" // loadout a = medigun
       bind KP_UPARROW"exec user/medic/kritzkrieg.cfg" // loadout b = kritzkrieg
