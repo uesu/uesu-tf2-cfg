@@ -83,3 +83,19 @@ all members of the team show their position `showing a health bubble at the top 
 `note`: you can change what key you want to bind instead of `e, g, and f`. just make sure you reset it to `gameoverrides.cfg`
 
 [more competitive medic scripts](https://gist.github.com/marcinof/2981918)
+
+* scripts i used and the source of these:
+
+[null cancelling movement script](https://github.com/mastercomfig/mastercomfig/releases/latest/download/mastercomfig-null-cancelling-movement-addon.vpk)
+
+[quick build and destroy script](https://www.reddit.com/r/tf2/comments/94volb/quick_build_and_destroy_script/)
+
+[competitive medic scripts](https://github.com/mastercoms/configs/tree/master/games/tf2/cfg/user)
+
+[quick switch loadout](https://www.reddit.com/r/Tf2Scripts/comments/1ol0z0/help_how_do_i_bind_a_key_to_change_loadout/)
+
+[crouch jump script](https://gamebanana.com/scripts/7982)
+
+[quick class switch](https://gamebanana.com/scripts/3908)
+
+[flat mouse](https://github.com/mastercomfig/mastercomfig/releases/latest/download/mastercomfig-flat-mouse-addon.vpk)
