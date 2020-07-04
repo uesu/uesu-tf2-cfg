@@ -41,7 +41,7 @@ my `cfg` is pretty much `vanilla` and it doesn't have too many configurations, s
 
 `resolution`:
 
-- find `mat_setvideomode 720 480 0` on autoexec.cfg
+- find `mat_setvideomode 720 480 0` on `autoexec.cfg`
   - change `720 480` to your preferred resolution; example = `1280 720`
  
 `medic`:
