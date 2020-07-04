@@ -1,6 +1,6 @@
 # uesu-cfg
 
-my `cfg` is pretty much `vanilla` and it doesn't have too many configurations, scripts or binds. it only has the important ones that i really feel like i need. feel free to look inside the `class.cfg = soldier, demoman.cfg` and `autoexec.cfg` to see what is written and after that, you can `remove, edit or add` more within the `.cfg` files.
+my `cfg` is pretty much `vanilla` and it doesn't have too many configurations, scripts or binds. it only has the important ones that i really feel like i need. feel free to look inside the `class.cfg = soldier.cfg, demoman.cfg` and `autoexec.cfg` to see what is written and after that, you can `remove, edit or add` more within the `.cfg` files.
 
 
 <h3>install:
