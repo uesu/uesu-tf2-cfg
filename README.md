@@ -10,7 +10,7 @@ my `cfg` is pretty much `vanilla` and it doesn't have too many configurations, s
 
 * unzip and place the `user` folder to `tf/cfg` and `custom` folder to `tf/custom`
 
-`note`: remove `bxhud` if you don't use a hud, or if you don't want bxhud. If you want to use `bxhud`, unpack `bxhud.rar` and place the folder in `tf/custom`
+`note`: remove `bxhud` if you don't use a hud, or if you don't want bxhud. if you want to use `bxhud`, unpack `bxhud.rar` and place the folder in `tf/custom`
 
 <h3>faq:
 </h3>
