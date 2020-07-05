@@ -8,7 +8,7 @@ my `cfg` is pretty much `vanilla` and it doesn't have too many configurations, s
 
 - install [git](https://gitforwindows.org/) and open `git bash`
     - copy and paste `git clone https://github.com/uesu/cfg (insert folder name)`
-        * example: `https://github.com/uesu/cfg test`
+        * example: `git clone https://github.com/uesu/cfg test`
 
 `note`: simply search for the name you named the folder to locate it
 
