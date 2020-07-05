@@ -6,9 +6,19 @@ my `cfg` is pretty much `vanilla` and it doesn't have too many configurations, s
 <h3>install:
 </h3>
 
-* [download zip](https://github.com/uesu/cfg/archive/master.zip)
+- install [git](https://gitforwindows.org/) and open `git bash`
+    - copy and paste `git clone https://github.com/uesu/cfg (insert folder name)`
+        * example: `https://github.com/uesu/cfg test`
 
-* unzip and place the `user` folder to `tf/cfg` and `custom` folder to `tf/custom`
+`note`: simply search for the name you named the folder to locate it
+
+* place the `user` folder to `tf/cfg` and `custom` folder to `tf/custom`
+
+<h3>
+update:
+</h3>
+
+* to update, simply run `update.sh`
 
 `note`: remove `bxhud` if you don't use a hud, or if you don't want bxhud. if you want to use `bxhud`, unpack `bxhud.rar` and place the folder in `tf/custom`
 
