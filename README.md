@@ -49,6 +49,14 @@ update:
 
 * `note`: if you want to deactivate crouch jump (example = `scout`) and use crouch jump on `soldier` or `demoman`, simply add `//` before the script on `scout` and remove `//` slashes on `bind space +jump` and `bind ctrl +duck` from `gameoverrides.cfg`
 
+`null-movement`
+
+- if you only want to use the script on; example = `scout`
+    - remove the script and copy it and paste it to `scout.cfg`
+        - remove `//` slashes null-movement default in gameoverrides.cfg
+        
+* `note`: you can use it on all class, just put `//` before the script then enable the default keybind on gameoverrides.cfg
+
 `resolution`:
 
 - find `mat_setvideomode 720 480 0` on `autoexec.cfg`
