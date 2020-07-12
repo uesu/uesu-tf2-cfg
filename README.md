@@ -33,9 +33,9 @@ update:
   - install all fonts on 
 `bXHud / resource / fonts`
 
-`sensitivity`:
+`mouse and sensitivity`:
 
-- if you want to change the sensitivity of each class 
+- if you want to change the raw input and sensitivity
   - just go to the `class.cfg`: 
     - `spy.cfg, scout.cfg, demoman.cfg`
     
