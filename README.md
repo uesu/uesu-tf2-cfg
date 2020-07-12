@@ -52,10 +52,9 @@ update:
 `null-movement`:
 
 - if you only want to use the script on; example = `scout`
-    - remove the script and copy it and paste it to `scout.cfg`
-        - remove `//` slashes null-movement default in gameoverrides.cfg
+    - remove the `null-movement script` on `gameoverrides.cfg` (if you put it on `gameoverrides.cfg` it will enable null-movement for all class and i think it should be enabled on all class but if you want to use it on a specific class then) copy it and paste it to `scout.cfg`
         
-* `note`: you can use it on all class, just put `//` before the script then enable the default keybind on gameoverrides.cfg
+* `note`: enable the `default keybind` for null-movement in `gameoverrides.cfg`
 
 `resolution`:
 
