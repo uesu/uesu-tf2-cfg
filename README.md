@@ -12,7 +12,7 @@ my `cfg` is pretty much `vanilla` and it doesn't have too many configurations, s
 
 `note`: simply search for the name you named the folder to locate it
 
-[alternate download](https://github.com/uesu/cfg/archive/master.zip)
+[alternate download](https://github.com/uesu/cfg/archive/master.zip) if you don't want to install [git](https://gitforwindows.org/)
 
 * place the `user` folder to `tf/cfg` and `custom` folder to `tf/custom`
 
