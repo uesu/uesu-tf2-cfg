@@ -49,7 +49,7 @@ update:
 
 * `note`: if you want to deactivate crouch jump (example = `scout`) and use crouch jump on `soldier` or `demoman`, simply add `//` before the script on `scout` and remove `//` slashes on `bind space +jump` and `bind ctrl +duck` from `gameoverrides.cfg`
 
-`null-movement`
+`null-movement`:
 
 - if you only want to use the script on; example = `scout`
     - remove the script and copy it and paste it to `scout.cfg`
