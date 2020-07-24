@@ -111,7 +111,7 @@ all members of the team show their position `showing a health bubble at the top 
 
 [mastercomfig](https://mastercomfig.com)
 
-`scripts`
+`scripts`:
 
 [null cancelling movement script](https://github.com/mastercomfig/mastercomfig/releases/latest/download/mastercomfig-null-cancelling-movement-addon.vpk)
 
