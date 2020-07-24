@@ -105,7 +105,13 @@ all members of the team show their position `showing a health bubble at the top 
 
 [more competitive medic scripts](https://gist.github.com/marcinof/2981918)
 
-* scripts i used and the source of these:
+* scripts, mods, and hud i used and the source of these:
+
+`performance and customization config`:
+
+[mastercomfig](https://mastercomfig.com)
+
+`scripts`
 
 [null cancelling movement script](https://github.com/mastercomfig/mastercomfig/releases/latest/download/mastercomfig-null-cancelling-movement-addon.vpk)
 
@@ -120,3 +126,17 @@ all members of the team show their position `showing a health bubble at the top 
 [quick class switch](https://gamebanana.com/scripts/3908)
 
 [flat mouse](https://github.com/mastercomfig/mastercomfig/releases/latest/download/mastercomfig-flat-mouse-addon.vpk)
+
+`mods`:
+
+[no explosion smoke script](https://www.teamfortress.tv/25647/no-explosion-smoke-script)
+
+[undertale soul healsign](https://gamebanana.com/effects/5460)
+
+[original left hand fix](https://gamebanana.com/skins/165167)
+
+[lugermorph fix](https://gamebanana.com/skins/160583)
+
+`hud`:
+
+[bxhud](https://github.com/Hypnootize/BX-Hud)
