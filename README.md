@@ -50,7 +50,7 @@ mouse and sensitivity:
 crouch jump:
 
 - crouch jump is enabled on all class
-  - if you dont want to use crouch jump = add `//` before the script
+  - if you don't want to use crouch jump = add `//` before the script
     - then remove `//` on `bind space +jump` and `bind ctrl +duck` from gameoverrides.cfg
 
 `note`: if you want to deactivate crouch jump (example = scout) and use crouch jump on soldier or demoman, simply add `//` before the crouch jump script on scout and remove `//` on `bind space +jump` and `bind ctrl +duck` from gameoverrides.cfg
@@ -80,7 +80,7 @@ alias uber_used "cmd say_team `>>kritz used<<`"
 
 alias uber_ready "cmd say_team `>>kritz ready<<`"
 
-* `note`: execute when changing medigun to change the `sayteam`
+`note`: execute when changing medigun to change the `sayteam`
 
 loadout a = medigun
 
@@ -95,23 +95,20 @@ loadout d = vaccinator
       bind KP_PGUP"exec user/medic/quickfix.cfg" 
       bind KP_LEFTARROW"exec user/medic/vaccinator.cfg" 
       
-`medic callout / radar`:
-
-`note`: this will only work on medic, it won't conflict with other classes
-
-      press "e"
-
-all members of the team show their position `showing a health bubble at the top of their heads`
+`medic callout / radar`: press e
         
-* `fake uber`:
+`fake uber`: press g
 
-      press "g"
-
-* `mask uber`:
-
-      press "f"
+`mask uber`: press f
   
 `note`: you can change what key you want to bind instead of `e, g, and f`. just make sure to reset it to `gameoverrides.cfg`
+
+engineer:
+
+`quick build and destroy script`:
+
+- hold shift and press 1-4 to build and press 1-4 to destroy
+    - then you can remove the script if you don't want to use it
 
 [more competitive medic scripts](https://gist.github.com/marcinof/2981918)
 
