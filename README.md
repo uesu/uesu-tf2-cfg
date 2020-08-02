@@ -36,6 +36,11 @@ faq:
 
 `note`: add `//` if you don't want to use the command, remove `//` if you want to use it
 
+hud:
+
+- unzip bxhud
+    - place bxhud on `tf/custom`
+
 fonts:
 
 - if you have font problems: 
