@@ -86,8 +86,8 @@ load_itempreset 3 is loadout d
 
 resolution:
 
-- find `mat_setvideomode 1024 768 0` on autoexec.cfg
-  - change `1024 768` to your preferred resolution; example = `1280 720`
+- find `mat_setvideomode 1280 768 0` on autoexec.cfg
+  - change `1280 768` to your preferred resolution; example = `1920 1080`
  
 medic:
 
