@@ -53,14 +53,14 @@ crouch jump:
   - if you dont want to use crouch jump = add `//` before the script
     - then remove `//` on `bind space +jump` and `bind ctrl +duck` from gameoverrides.cfg
 
-* `note`: if you want to deactivate crouch jump (example = scout) and use crouch jump on soldier or demoman, simply add `//` before the crouch jump script on scout and remove `//` on `bind space +jump` and `bind ctrl +duck` from gameoverrides.cfg
+`note`: if you want to deactivate crouch jump (example = scout) and use crouch jump on soldier or demoman, simply add `//` before the crouch jump script on scout and remove `//` on `bind space +jump` and `bind ctrl +duck` from gameoverrides.cfg
 
 null-movement:
 
 - if you only want to use the script on; example = scout
     - remove the `null-movement script` from gameoverrides.cfg (if you put it on `gameoverrides.cfg` it will enable null-movement for all class and i think it should be enabled on all class but if you want to use it on a specific class then) copy it and paste it to scout.cfg
         
-* `note`: enable the `default w-a-s-d` for null-movement in gameoverrides.cfg
+`note`: enable the `default w-a-s-d` for null-movement in gameoverrides.cfg
 
 resolution:
 
