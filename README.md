@@ -1,20 +1,26 @@
 # uesu-cfg
 
-my `cfg` is pretty much `vanilla` and it doesn't have too many configurations, scripts or binds. it only has the important ones that i really feel like i need. feel free to look inside the `class.cfg = soldier.cfg, demoman.cfg` and `autoexec.cfg` to see what is written and after that, you can `remove, edit or add` more within the `.cfg` files.
+my tf2 config; mostly vanilla
 
 `note`: i use a regular keyboard and a standard optical mouse
 
+<h3>what uesu config contains
+</h3>
+
+* class configs
+* some useful scripts
+* custom hud (bxhud)
+* mastercomfig
 
 <h3>install:
 </h3>
 
 - install [git](https://gitforwindows.org/) and open `git bash`
-    - copy and paste `git clone https://github.com/uesu/cfg (insert folder name)`
-        * example: `git clone https://github.com/uesu/cfg test`
-
-`note`: simply search for the name you named the folder to locate it
-
+    - copy and paste `git clone https://github.com/uesu/cfg test`
+    
 [alternate download](https://github.com/uesu/cfg/archive/master.zip) if you don't want to install [git](https://gitforwindows.org/)
+
+`note`: locate the folder where you saved it by simply searching for the name of the `test` folder
 
 * place the `user` folder to `tf/cfg` and `custom` folder to `tf/custom`
 
@@ -22,57 +28,54 @@ my `cfg` is pretty much `vanilla` and it doesn't have too many configurations, s
 update:
 </h3>
 
-* to update, simply run `update.sh`
+to update, simply run `update.sh`
 
-`note`: remove `bxhud` if you don't use a hud, or if you don't want bxhud. if you want to use `bxhud`, unpack `bxhud.rar` and place the folder in `tf/custom`
-
-<h3>faq:
+<h3>
+faq:
 </h3>
 
-* `note`: if you do not want to use it, add `//` slashes before the `command, script, bind or alias` and remove `//` slashes if you want to use it
+`note`: add `//` if you don't want to use the command, remove `//` if you want to use it
 
- `fonts`:
+fonts:
 
 - if you have font problems: 
   - install all fonts on 
 `bXHud / resource / fonts`
 
-`mouse and sensitivity`:
+mouse and sensitivity:
 
 - if you want to change the raw input and sensitivity
-  - just go to the `class.cfg`: 
-    - `spy.cfg, scout.cfg, demoman.cfg`
-    
-      the default sensitivity value: `3.000000`
+  - just go to the class configs: 
+    - (e.g) spy.cfg, scout.cfg, demoman.cfg
 
-`crouch jump`:
+crouch jump:
 
 - crouch jump is enabled on all class
-  - if you don't want to use crouch jump = add `//` before the script
-    - then remove `//` slashes on `bind space +jump` and `bind ctrl +duck` from `gameoverrides.cfg`
+  - if you dont want to use crouch jump = add `//` before the script
+    - then remove `//` on `bind space +jump` and `bind ctrl +duck` from gameoverrides.cfg
 
-* `note`: if you want to deactivate crouch jump (example = `scout`) and use crouch jump on `soldier` or `demoman`, simply add `//` before the script on `scout` and remove `//` slashes on `bind space +jump` and `bind ctrl +duck` from `gameoverrides.cfg`
+* `note`: if you want to deactivate crouch jump (example = scout) and use crouch jump on soldier or demoman, simply add `//` before the crouch jump script on scout and remove `//` on `bind space +jump` and `bind ctrl +duck` from gameoverrides.cfg
 
-`null-movement`:
+null-movement:
 
-- if you only want to use the script on; example = `scout`
-    - remove the `null-movement script` on `gameoverrides.cfg` (if you put it on `gameoverrides.cfg` it will enable null-movement for all class and i think it should be enabled on all class but if you want to use it on a specific class then) copy it and paste it to `scout.cfg`
+- if you only want to use the script on; example = scout
+    - remove the `null-movement script` from gameoverrides.cfg (if you put it on `gameoverrides.cfg` it will enable null-movement for all class and i think it should be enabled on all class but if you want to use it on a specific class then) copy it and paste it to scout.cfg
         
-* `note`: enable the `default keybind` for null-movement in `gameoverrides.cfg`
+* `note`: enable the `default w-a-s-d` for null-movement in gameoverrides.cfg
 
-`resolution`:
+resolution:
 
-- find `mat_setvideomode 1024 768 0` on `autoexec.cfg`
+- find `mat_setvideomode 1024 768 0` on autoexec.cfg
   - change `1024 768` to your preferred resolution; example = `1280 720`
  
-`medic`:
+medic:
 
-* `sayteam`:
+`sayteam`:
 
   - on `tf/cfg/user/medic` folder
     - you can change the highlighted text to whatever you want
     
-cmd say_team "`using kritz!`"
+cmd say_team "`using kritz!`
 
 alias uber_used "cmd say_team `>>kritz used<<`"
 
@@ -80,12 +83,20 @@ alias uber_ready "cmd say_team `>>kritz ready<<`"
 
 * `note`: execute when changing medigun to change the `sayteam`
 
-      bind KP_HOME"exec user/medic/ubercharge.cfg" // loadout a = medigun
-      bind KP_UPARROW"exec user/medic/kritzkrieg.cfg" // loadout b = kritzkrieg
-      bind KP_PGUP"exec user/medic/quickfix.cfg" // loadout c = quickfix
-      bind KP_LEFTARROW"exec user/medic/vaccinator.cfg" // loadout d = vaccinator
+loadout a = medigun
+
+loadout b = kritzkrieg
+
+loadout c = quickfix
+
+loadout d = vaccinator
+
+      bind KP_HOME"exec user/medic/ubercharge.cfg"
+      bind KP_UPARROW"exec user/medic/kritzkrieg.cfg"
+      bind KP_PGUP"exec user/medic/quickfix.cfg" 
+      bind KP_LEFTARROW"exec user/medic/vaccinator.cfg" 
       
-* `medic callout / radar`:
+`medic callout / radar`:
 
 `note`: this will only work on medic, it won't conflict with other classes
 
@@ -101,7 +112,7 @@ all members of the team show their position `showing a health bubble at the top 
 
       press "f"
   
-`note`: you can change what key you want to bind instead of `e, g, and f`. just make sure you reset it to `gameoverrides.cfg`
+`note`: you can change what key you want to bind instead of `e, g, and f`. just make sure to reset it to `gameoverrides.cfg`
 
 [more competitive medic scripts](https://gist.github.com/marcinof/2981918)
 
