@@ -45,8 +45,7 @@ fonts:
 mouse and sensitivity:
 
 - if you want to change the raw input and sensitivity
-  - just go to the class configs: 
-    - (e.g) spy.cfg
+  - just go to the class configs = (e.g) spy.cfg
 
 crouch jump:
 
