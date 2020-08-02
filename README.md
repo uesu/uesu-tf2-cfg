@@ -18,7 +18,7 @@ my tf2 config; mostly vanilla
 - install [git](https://gitforwindows.org/) and open `git bash`
     - copy and paste `git clone https://github.com/uesu/cfg test`
     
-[alternate download](https://github.com/uesu/cfg/releases/tag/v1.0) if you don't want to install [git](https://gitforwindows.org/)
+[alternate download](https://github.com/uesu/cfg/releases) if you don't want to install [git](https://gitforwindows.org/)
 
 `note`: locate the folder where you saved it by simply searching for the name of the `test` folder
 
