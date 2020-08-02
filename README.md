@@ -62,6 +62,23 @@ null-movement:
         
 `note`: enable the `default w-a-s-d` for null-movement in gameoverrides.cfg
 
+quick-class switch:
+
+- hold shift and press 1-9
+
+quick-switch loadout:
+
+- use the numeric keypad
+    - i press 7 for kp_home, 8 for kp_uparrow, 9 for kp_pgup and 4 for kp_leftarrow 
+
+load_itempreset 0 is loadout a
+
+load_itempreset 1 is loadout b
+
+load_itempreset 2 is loadout c
+
+load_itempreset 3 is loadout d
+
 resolution:
 
 - find `mat_setvideomode 1024 768 0` on autoexec.cfg
