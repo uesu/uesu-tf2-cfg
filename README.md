@@ -95,11 +95,11 @@ loadout d = vaccinator
       bind KP_PGUP"exec user/medic/quickfix.cfg" 
       bind KP_LEFTARROW"exec user/medic/vaccinator.cfg" 
       
-`medic callout / radar`: press e
-        
-`fake uber`: press g
+medic callout / radar: press `e`
+       
+fake uber: press `g`
 
-`mask uber`: press f
+mask uber: press `f`
   
 `note`: you can change what key you want to bind instead of `e, g, and f`. just make sure to reset it to `gameoverrides.cfg`
 
