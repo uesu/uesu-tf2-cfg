@@ -74,7 +74,7 @@ medic:
   - on `tf/cfg/user/medic` folder
     - you can change the highlighted text to whatever you want
     
-cmd say_team "`using kritz!`
+cmd say_team "`using kritz!`"
 
 alias uber_used "cmd say_team `>>kritz used<<`"
 
