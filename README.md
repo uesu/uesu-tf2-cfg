@@ -63,7 +63,7 @@ crouch jump:
 null-movement:
 
 - if you only want to use the script on; example = scout
-    - remove the `null-movement script` from gameoverrides.cfg (if you put it on `gameoverrides.cfg` it will enable null-movement for all class and i think it should be enabled on all class but if you want to use it on a specific class then) copy it and paste it to scout.cfg
+    - remove the `null-movement script` from gameoverrides.cfg (if you put it on gameoverrides.cfg it will enable null-movement for all class and i think it should be enabled on all class but if you want to use it on a specific class then) copy it and paste it to scout.cfg
         
 `note`: enable the `default w-a-s-d` for null-movement in gameoverrides.cfg
 
@@ -74,7 +74,7 @@ quick-class switch:
 quick-switch loadout:
 
 - use the numeric keypad
-    - i press 7 for kp_home, 8 for kp_uparrow, 9 for kp_pgup and 4 for kp_leftarrow 
+    - 7 (kp_home) loadout a, 8 (kp_uparrow) loadout b, 9 (kp_pgup) loadout c and 4 (kp_leftarrow) loadout d 
 
 load_itempreset 0 is loadout a
 
@@ -123,24 +123,23 @@ fake uber: press `g`
 
 mask uber: press `f`
   
-`note`: you can change what key you want to bind instead of `e, g, and f`. just make sure to reset it to `gameoverrides.cfg`
+`note`: you can change what key you want to bind instead of `e, g, and f` or any keybinds that i set. just make sure to reset it to gameoverrides.cfg
 
 engineer:
 
 `quick build and destroy script`:
 
 - hold shift and press 1-4 to build and press 1-4 to destroy
-    - then you can remove the script if you don't want to use it
 
 [more competitive medic scripts](https://gist.github.com/marcinof/2981918)
 
 * scripts, mods, and hud i used and the source of these:
 
-`performance and customization config`:
+performance and customization config:
 
 [mastercomfig](https://mastercomfig.com)
 
-`scripts`:
+scripts:
 
 [null cancelling movement script](https://github.com/mastercomfig/mastercomfig/releases/latest/download/mastercomfig-null-cancelling-movement-addon.vpk)
 
@@ -156,7 +155,7 @@ engineer:
 
 [flat mouse](https://github.com/mastercomfig/mastercomfig/releases/latest/download/mastercomfig-flat-mouse-addon.vpk)
 
-`mods`:
+mods:
 
 [no explosion smoke script](https://www.teamfortress.tv/25647/no-explosion-smoke-script)
 
@@ -166,6 +165,6 @@ engineer:
 
 [lugermorph fix](https://gamebanana.com/skins/160583)
 
-`hud`:
+hud:
 
 [bxhud](https://github.com/Hypnootize/BX-Hud)
