@@ -51,6 +51,11 @@ mouse and sensitivity:
 
 - if you want to change the raw input and sensitivity
   - just go to the class configs = (e.g) spy.cfg
+  
+fps cap:
+
+- in modules.cfg, look for `fpscap`
+    - set the fps cap if you want to limit your frame rate; [fps cap docs](https://docs.mastercomfig.com/en/latest/customization/modules/#fps-cap)
 
 crouch jump:
 
