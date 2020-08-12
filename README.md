@@ -22,7 +22,7 @@ my tf2 config; mostly vanilla
 
 `note`: locate the folder where you saved it by simply searching for the name of the `test` folder
 
-* place the `user` folder to `tf/cfg` and `custom` folder to `tf/custom`
+* place the `user` folder to `tf/cfg` and `custom` files to `tf/custom`
 
 <h3>
 update:
