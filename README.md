@@ -162,11 +162,9 @@ scripts:
 
 mods:
 
-[no explosion smoke script](https://www.teamfortress.tv/25647/no-explosion-smoke-script)
+[less distracting explosions](https://gamebanana.com/effects/5422)
 
 [undertale soul healsign](https://gamebanana.com/effects/5460)
-
-[original left hand fix](https://gamebanana.com/skins/165167)
 
 [lugermorph fix](https://gamebanana.com/skins/160583)
 
