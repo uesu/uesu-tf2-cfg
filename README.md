@@ -138,6 +138,8 @@ engineer:
 
 [more competitive medic scripts](https://gist.github.com/marcinof/2981918)
 
+preview: https://youtu.be/xMxNfzkpQiE
+
 * scripts, mods, and hud i used and the source of these:
 
 performance and customization config:
