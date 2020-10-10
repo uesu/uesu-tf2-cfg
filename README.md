@@ -164,8 +164,6 @@ scripts:
 
 mods:
 
-[pistol enhancement pack (lugermorph magazine fix)](https://gamebanana.com/skins/164540)
-
 [less distracting explosions](https://gamebanana.com/effects/5422)
 
 [undertale soul healsign](https://gamebanana.com/effects/5460)
