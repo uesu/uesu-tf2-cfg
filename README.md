@@ -10,7 +10,7 @@ my tf2 config; mostly vanilla
 * class configs
 * some useful scripts
 * custom hud (bxhud)
-* mastercomfig
+* mastercomfig (low preset)
 
 <h3>install:
 </h3>
