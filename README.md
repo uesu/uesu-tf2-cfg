@@ -18,7 +18,7 @@ sourcetv compatibility : on
 packet rate: standard
 snapshot buffer: auto
 packet size: big
-bandwith: default (1.5mbps)
+bandwith: default (762kbps)
 downloads: auto
 ```
 **graphics:**
