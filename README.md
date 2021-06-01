@@ -40,7 +40,7 @@ characters: very low
 general decals: off
 model decals: off
 map decals: off
-spray decals: off
+spray decals: on
 gibs: off
 silly gibs: auto
 props: low
@@ -75,6 +75,7 @@ voice chat: on
 **misc:**
 ```
 mod support: on
+party join mode: request-only party
 logo: off
 movement binds: wasd
 ```
