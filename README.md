@@ -10,79 +10,8 @@ my tf2 config; mostly vanilla
 * class configs
 * some useful scripts
 * custom hud (bxhud)
-* mastercomfig (low preset) =
-
-**networking:**
-```
-sourcetv compatibility : on
-packet rate: standard
-snapshot buffer: auto
-packet size: big
-bandwith: default (762kbps)
-downloads: auto
-```
-**graphics:**
-```
-level of detail: low
-lighting: very low
-lighting ex: low
-shadows: off
-effects: low
-water: low
-particles: low
-general post processing: off
-pyrovision: low
-motion blur: off
-anti-aliasing: off
-msaa anti-aliasing: off
-texture filtering: bilinear
-characters: very low
-general decals: off
-model decals: off
-map decals: off
-spray decals: on
-gibs: off
-silly gibs: auto
-props: low
-ragdolls: off
-3d sky: off
-jiggle bones: off
-killstreak sheens speed: slow
-killstreak sheens tint intensity: high
-texture quality: very low
-ropes: off
-fps cap: 1000
-opengl: default
-```
-**hud:**
-```
-player model: off
-panels: on
-match hud: on
-messages: on
-killfeed: on
-killstreaks: low
-hud achievements: on
-debug: minimal
-outlines: off
-map background: off
-```
-**sound:**
-```
-sound quality: low
-voice chat: on
-```
-**misc:**
-```
-mod support: on
-party join mode: request-only party
-logo: off
-movement binds: wasd
-```
-**addons:**
-```
-no footsteps, disable pyroland, no soundscapes, no tutorial
-```
+* mastercomfig (low preset)
+* addons: no footsteps, disable pyroland, no soundscapes, no tutorial
 
 <h3>install:
 </h3>
