@@ -149,7 +149,7 @@ performance and customization config:
 
 scripts:
 
-[null cancelling movement script](https://github.com/mastercomfig/mastercomfig/releases/latest/download/mastercomfig-null-cancelling-movement-addon.vpk)
+[null cancelling movement script](https://github.com/mastercomfig/mastercomfig/releases)
 
 [quick build and destroy script](https://www.reddit.com/r/tf2/comments/94volb/quick_build_and_destroy_script/)
 
@@ -161,7 +161,7 @@ scripts:
 
 [quick class switch](https://gamebanana.com/scripts/3908)
 
-[flat mouse](https://github.com/mastercomfig/mastercomfig/releases/latest/download/mastercomfig-flat-mouse-addon.vpk)
+[flat mouse](https://github.com/mastercomfig/mastercomfig/releases)
 
 mods:
 
