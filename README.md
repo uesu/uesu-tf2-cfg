@@ -11,7 +11,7 @@ my tf2 config; mostly vanilla
 * some useful scripts
 * custom hud (bxhud)
 * mastercomfig (low preset)
-* addons: no footsteps, disable pyroland, no soundscapes, no tutorial
+* addons: disable pyroland, no soundscapes
 
 <h3>install:
 </h3>
@@ -23,10 +23,10 @@ my tf2 config; mostly vanilla
 
 `note`: locate the folder where you saved it by simply searching for the name of the `test` folder
 
-* place the `user` folder to `tf/cfg` and `custom` files to `tf/custom`
+* place the `overrides` folder to `tf/cfg` and `custom` files to `tf/custom`
 
 <h3>
-update:
+git update:
 </h3>
 
 to update, simply run `update.sh`
@@ -99,7 +99,7 @@ medic:
 
 `sayteam`:
 
-  - on `tf/cfg/user/medic` folder
+  - on `tf/cfg/overrides/medic` folder
     - you can change the highlighted text to whatever you want
     
 cmd say_team "`using kritz!`"
@@ -118,10 +118,10 @@ loadout c = quickfix
 
 loadout d = vaccinator
 
-      bind KP_HOME"exec user/medic/ubercharge.cfg"
-      bind KP_UPARROW"exec user/medic/kritzkrieg.cfg"
-      bind KP_PGUP"exec user/medic/quickfix.cfg" 
-      bind KP_LEFTARROW"exec user/medic/vaccinator.cfg" 
+      bind KP_HOME"exec overrides/medic/ubercharge.cfg"
+      bind KP_UPARROW"exec overrides/medic/kritzkrieg.cfg"
+      bind KP_PGUP"exec overrides/medic/quickfix.cfg" 
+      bind KP_LEFTARROW"exec overrides/medic/vaccinator.cfg" 
       
 medic callout / radar: press `e`
        
