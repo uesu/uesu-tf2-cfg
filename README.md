@@ -6,6 +6,8 @@ my tf2 config; mostly vanilla
 
 [preview](https://youtu.be/xMxNfzkpQiE)
 
+[preview demo](https://www.youtube.com/watch?v=zuof0FGRi74)
+
 `note`: i use (wasd) and a standard optical mouse
 
 <h3>what uesu config contains
