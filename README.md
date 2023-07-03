@@ -2,6 +2,10 @@
 
 my tf2 config; mostly vanilla
 
+[screenshots](https://imgur.com/a/WxdfV)
+
+[preview](https://youtu.be/xMxNfzkpQiE)
+
 `note`: i use (wasd) and a standard optical mouse
 
 <h3>what uesu config contains
@@ -12,6 +16,8 @@ my tf2 config; mostly vanilla
 * custom hud (bxhud)
 * mastercomfig (low preset)
 * addons: disable pyroland, no soundscapes
+
+[advanced guide](https://github.com/uesu/mastercomfig-advanced-guide)
 
 <h3>install:
 </h3>
@@ -138,8 +144,6 @@ engineer:
 - hold shift and press 1-4 to build and press 1-4 to destroy
 
 [more competitive medic scripts](https://gist.github.com/marcinof/2981918)
-
-preview: https://youtu.be/xMxNfzkpQiE
 
 * scripts, mods, and hud i used and the source of these:
 
