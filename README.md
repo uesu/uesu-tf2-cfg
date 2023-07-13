@@ -1,6 +1,12 @@
-# uesu-cfg
+<h1 align="center">uesu-cfg</h1>
 
+<p align="center">
 my tf2 config; mostly vanilla
+</p>
+
+<p align="center">
+  <img src="bxhud-uesu.PNG" alt="animated" />
+</p>
 
 [screenshots](https://imgur.com/a/WxdfV)
 
