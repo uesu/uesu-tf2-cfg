@@ -17,7 +17,8 @@ my tf2 config; mostly vanilla
 * some useful scripts
 * custom hud (bxhud)
 * mastercomfig (low preset)
-* addons: disable pyroland, no soundscapes
+* null movement
+* addons: disable pyroland, no soundscapes, no footsteps, no tutorial, less explosions
 
 [advanced guide](https://github.com/uesu/mastercomfig-advanced-guide)
 
@@ -163,7 +164,7 @@ scripts:
 
 [quick switch loadout](https://www.reddit.com/r/Tf2Scripts/comments/1ol0z0/help_how_do_i_bind_a_key_to_change_loadout/)
 
-[crouch jump script](https://gamebanana.com/scripts/7982)
+[improved crouch jump script](https://gamebanana.com/scripts/11344)
 
 [quick class switch](https://gamebanana.com/scripts/3908)
 
