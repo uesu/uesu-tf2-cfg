@@ -8,13 +8,21 @@ my tf2 config; mostly vanilla
   <img src="bxhud-uesu.PNG" alt="animated" />
 </p>
 
-[screenshots](https://imgur.com/a/WxdfV)
+<p align="center">
+  <img src="bxhud and cp_sulfur.jpg" alt="animated" />
+</p>
+
+<p align="center">
+  <img src="bxhud and pl_phoenix.jpg" alt="animated" />
+</p>
+
+[more screenshots](https://imgur.com/a/WxdfV)
 
 [preview](https://youtu.be/xMxNfzkpQiE)
 
 [preview demo](https://www.youtube.com/watch?v=zuof0FGRi74)
 
-`note`: i use (wasd) and a standard optical mouse
+`note`: i use (wasd) and a standard optical mouse, change the keybinds or keys on what you want to bind if you're an advanced user!
 
 <h3>what uesu config contains
 </h3>
