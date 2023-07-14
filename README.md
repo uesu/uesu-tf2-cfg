@@ -22,7 +22,9 @@ my tf2 config; mostly vanilla
 
 [preview demo](https://www.youtube.com/watch?v=zuof0FGRi74)
 
-`note`: i use (wasd) and a standard optical mouse, change the keybinds or keys on what you want to bind if you're an advanced user!
+`note`: i use (wasd) and a standard optical mouse
+
+`note`: change the keybinds or keys on what you want to bind if you're an advanced user!
 
 <h3>what uesu config contains
 </h3>
