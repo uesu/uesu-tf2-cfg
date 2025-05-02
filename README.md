@@ -32,9 +32,9 @@ my tf2 config; mostly vanilla
 * class configs
 * some useful scripts
 * custom hud (bxhud)
-* mastercomfig (low preset)
-* null movement
-* addons: disable pyroland, no soundscapes, no footsteps, no tutorial, less explosions
+* mastercomfig (medium high customized)
+* null movement (optional)
+* addons: no tutorial
 
 [advanced guide](https://github.com/uesu/mastercomfig-advanced-guide)
 
@@ -64,8 +64,8 @@ faq:
 
 hud:
 
-- unzip bxhud
-    - place bxhud on `tf/custom`
+- unzip bxhudfinal
+    - place bxhudfinal on `tf/custom`
 
 fonts:
 
@@ -73,14 +73,14 @@ fonts:
   - install all fonts on 
 `bXHud / resource / fonts`
 
-mouse and sensitivity:
+mouse sensitivity:
 
-- if you want to change the raw input and sensitivity
+- if you want to change the sensitivity
   - just go to the class configs = (e.g) spy.cfg
   
 fps cap:
 
-- in modules.cfg, look for `fpscap`
+- changed to `400 default` on the preset
     - set the fps cap if you want to limit your frame rate; [fps cap docs](https://docs.mastercomfig.com/en/latest/customization/modules/#fps-cap)
 
 crouch jump:
@@ -97,6 +97,8 @@ null-movement:
     - remove the `null-movement script` from gameoverrides.cfg (if you put it on gameoverrides.cfg it will enable null-movement for all class and i think it should be enabled on all class but if you want to use it on a specific class then) copy it and paste it to scout.cfg
         
 `note`: enable the `default w-a-s-d` for null-movement in gameoverrides.cfg
+
+or alternatively you can download the addon instead: https://comfig.app/app/
 
 quick-class switch:
 
@@ -117,8 +119,8 @@ load_itempreset 3 is loadout d
 
 resolution:
 
-- find `mat_setvideomode 1280 768 0` on autoexec.cfg
-  - change `1280 768` to your preferred resolution; example = `1920 1080`
+- find `mat_setvideomode 1920 1080 0` on autoexec.cfg
+  - change `1920 1080` to your preferred resolution; example = `1920 1080`
  
 medic:
 
