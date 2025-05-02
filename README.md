@@ -80,8 +80,8 @@ mouse sensitivity:
   
 fps cap:
 
-- changed to `400 default` on the preset
-    - set the fps cap if you want to limit your frame rate; [fps cap docs](https://docs.mastercomfig.com/en/latest/customization/modules/#fps-cap)
+- changed to `400 default` on the preset "medium high" which was customized
+    - [fps cap docs](https://docs.mastercomfig.com/en/latest/customization/modules/#fps-cap)
 
 crouch jump:
 
