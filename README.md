@@ -196,4 +196,4 @@ mods:
 
 hud:
 
-[bxhud](https://github.com/Hypnootize/BX-Hud)
+[bxhud](https://github.com/Hypnootize/BX-Hud) / bxhud on [comfig huds](https://comfig.app/huds/page/bx-hud/)
