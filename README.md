@@ -158,13 +158,13 @@ mask uber: press `f`
   
 `note`: you can change what key you want to bind instead of `e, g, and f` or any keybinds that i set. just make sure to reset it to gameoverrides.cfg
 
+[more competitive medic scripts](https://gist.github.com/marcinof/2981918)
+
 engineer:
 
 `quick build and destroy script`:
 
 - hold shift and press 1-4 to build and press 1-4 to destroy
-
-[more competitive medic scripts](https://gist.github.com/marcinof/2981918)
 
 * scripts, mods, and hud i used and the source of these:
 
@@ -179,6 +179,8 @@ scripts:
 [engineer: quick build and destroy script](https://www.reddit.com/r/tf2/comments/94volb/quick_build_and_destroy_script/)
 
 [competitive medic scripts](https://github.com/mastercoms/configs/tree/master/games/tf2/cfg/user)
+
+[more competitive medic scripts](https://gist.github.com/marcinof/2981918)
 
 [quick switch loadout](https://www.reddit.com/r/Tf2Scripts/comments/1ol0z0/help_how_do_i_bind_a_key_to_change_loadout/)
 
