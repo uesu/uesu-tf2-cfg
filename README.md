@@ -166,13 +166,14 @@ engineer:
 
 - hold shift and press 1-4 to build and press 1-4 to destroy
 
-* scripts, mods, and hud i used and the source of these:
+<h3>scripts, mods, and hud i used and the source of these:
+</h3>
 
-performance and customization config:
+> **performance and customization config:**
 
 [mastercomfig](https://mastercomfig.com)
 
-scripts:
+> **scripts:**
 
 [null cancelling movement script](https://github.com/mastercomfig/mastercomfig/releases)
 
@@ -190,7 +191,7 @@ scripts:
 
 [flat mouse](https://github.com/mastercomfig/mastercomfig/releases)
 
-mods:
+> **mods:**
 
 [less distracting explosions (optional)](https://gamebanana.com/effects/5422)
 
@@ -198,6 +199,6 @@ mods:
 
 [transparent flamethrower (i used low visibility)](https://gamebanana.com/mods/348622)
 
-hud:
+> **hud:**
 
 [bxhud](https://github.com/Hypnootize/BX-Hud) / bxhud on [comfig huds](https://comfig.app/huds/page/bx-hud/)
