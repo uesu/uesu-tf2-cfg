@@ -38,13 +38,13 @@ my tf2 config; mostly vanilla
 
 [advanced guide](https://github.com/uesu/mastercomfig-advanced-guide)
 
-<h3>install:
+<h3>how to install:
 </h3>
 
 - install [git](https://gitforwindows.org/) and open `git bash`
     - copy and paste `git clone https://github.com/uesu/cfg test`
     
-[alternate download](https://github.com/uesu/cfg/releases) if you don't want to install [git](https://gitforwindows.org/)
+[alternate download here](https://github.com/uesu/cfg/releases) if you don't want to install git
 
 `note`: locate the folder where you saved it by simply searching for the name of the `test` folder
 
