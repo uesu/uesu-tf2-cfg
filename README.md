@@ -62,28 +62,28 @@ faq:
 
 `note`: add `//` if you don't want to use the command, remove `//` if you want to use it
 
-hud:
+> hud:
 
 - unzip bxhudfinal
     - place bxhudfinal on `tf/custom`
 
-fonts:
+> fonts:
 
 - if you have font problems: 
   - install all fonts on 
 `bXHud / resource / fonts`
 
-mouse sensitivity:
+> mouse sensitivity:
 
 - if you want to change the sensitivity
   - just go to the class configs = (e.g) spy.cfg
   
-fps cap:
+> fps cap:
 
 - changed to `400 default` on the preset "medium high" which was customized
     - [fps cap docs](https://docs.mastercomfig.com/en/latest/customization/modules/#fps-cap)
 
-crouch jump:
+> crouch jump:
 
 - crouch jump is enabled on all class
   - if you don't want to use crouch jump = add `//` before the script
@@ -91,20 +91,20 @@ crouch jump:
 
 `note`: if you want to deactivate crouch jump (example = scout) and use crouch jump on soldier or demoman, simply add `//` before the crouch jump script on scout and remove `//` on `bind space +jump` and `bind ctrl +duck` from gameoverrides.cfg
 
-null-movement:
+> null-movement:
 
 - if you only want to use the script on; example = scout
     - remove the `null-movement script` from gameoverrides.cfg (if you put it on gameoverrides.cfg it will enable null-movement for all class and i think it should be enabled on all class but if you want to use it on a specific class then) copy it and paste it to scout.cfg
         
 `note`: enable the `default w-a-s-d` for null-movement in gameoverrides.cfg
 
-or alternatively you can download the addon instead: https://comfig.app/app/
+or alternatively you can download the addon "null-movement" instead and remove the script on the cfg: https://comfig.app/app/
 
-quick-class switch:
+> quick-class switch: 
 
 - hold shift and press 1-9
 
-quick-switch loadout:
+> quick-switch loadout:
 
 - use the numeric keypad
     - 7 (kp_home) loadout a, 8 (kp_uparrow) loadout b, 9 (kp_pgup) loadout c and 4 (kp_leftarrow) loadout d 
@@ -117,12 +117,20 @@ load_itempreset 2 is loadout c
 
 load_itempreset 3 is loadout d
 
-resolution:
+> engineer:
+
+`quick build and destroy script`:
+
+- hold shift and press 1-4 to build and press 1-4 to destroy
+
+> video example of the three "crouch jump, quick switch, quick build and destroy": https://youtu.be/DussnNwmgfo ; https://youtu.be/RbB29yptKVw
+
+> resolution:
 
 - find `mat_setvideomode 1920 1080 0` on autoexec.cfg
   - change `1920 1080` to your preferred resolution; example = `1920 1080`
  
-medic:
+> medic:
 
 `sayteam`:
 
@@ -158,14 +166,6 @@ mask uber: press `f`
   
 `note`: you can change what key you want to bind instead of `e, g, and f` or any keybinds that i set. just make sure to reset it to gameoverrides.cfg
 
-[more competitive medic scripts](https://gist.github.com/marcinof/2981918)
-
-engineer:
-
-`quick build and destroy script`:
-
-- hold shift and press 1-4 to build and press 1-4 to destroy
-
 <h3>scripts, mods, and hud i used and the source of these:
 </h3>
 
@@ -179,7 +179,7 @@ engineer:
 
 [engineer: quick build and destroy script](https://www.reddit.com/r/tf2/comments/94volb/quick_build_and_destroy_script/)
 
-[competitive medic scripts](https://github.com/mastercoms/configs/tree/master/games/tf2/cfg/user)
+[competitive medic scripts (mastercoms)](https://github.com/mastercoms/configs/tree/master/games/tf2/cfg/user)
 
 [more competitive medic scripts](https://gist.github.com/marcinof/2981918)
 
