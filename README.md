@@ -171,7 +171,7 @@ engineer:
 
 > **performance and customization config:**
 
-[mastercomfig](https://mastercomfig.com)
+[mastercomfig](https://comfig.app/)
 
 > **scripts:**
 
