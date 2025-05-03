@@ -176,7 +176,7 @@ scripts:
 
 [null cancelling movement script](https://github.com/mastercomfig/mastercomfig/releases)
 
-[quick build and destroy script](https://www.reddit.com/r/tf2/comments/94volb/quick_build_and_destroy_script/)
+[engineer: quick build and destroy script](https://www.reddit.com/r/tf2/comments/94volb/quick_build_and_destroy_script/)
 
 [competitive medic scripts](https://github.com/mastercoms/configs/tree/master/games/tf2/cfg/user)
 
@@ -190,9 +190,11 @@ scripts:
 
 mods:
 
-[less distracting explosions](https://gamebanana.com/effects/5422)
+[less distracting explosions (optional)](https://gamebanana.com/effects/5422)
 
-[undertale soul healsign](https://gamebanana.com/effects/5460)
+[undertale soul healsign (optional)](https://gamebanana.com/effects/5460)
+
+[transparent flamethrower (i used low visibility)](https://gamebanana.com/mods/348622)
 
 hud:
 
